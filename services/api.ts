@@ -1,4 +1,4 @@
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:5000/api";
+const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://heyama-h7gwjo6l6-charly-pierre-mounkams-projects.vercel.app";
 
 export interface ObjectItem {
   id: string;
